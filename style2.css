@@ -1,0 +1,6 @@
+.image{
+    background-image: url('house3.jpeg');
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
